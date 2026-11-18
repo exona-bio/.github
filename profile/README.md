@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://exona.bio">
-    <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/banner.png" alt="Exona — single-cell analysis on your desktop" />
+    <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/release-banner.png" alt="Exona — single-cell analysis on your desktop" />
   </a>
 </p>
 <h3 align="center">Computational biology, accessible to every scientist.</h3>
@@ -45,15 +45,15 @@ every step.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/quality-control.gif" alt="Exona quality control screen: suggested cut-offs, then violin plots before and after filtering" />
+      <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/exona-quality-control.gif" alt="Exona quality control screen: suggested cut-offs, then violin plots before and after filtering" />
       <br /><b>Quality control with suggested cut-offs</b><br />Before and after filtering, side by side.
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/clustering-explorer.gif" alt="Exona clustering screen: a UMAP of clusters and the expression of one gene" />
+      <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/exona-clustering-explorer.gif" alt="Exona clustering screen: a UMAP of clusters and the expression of one gene" />
       <br /><b>Clusters and gene expression</b><br />Pick a resolution, pick a gene, see it on the UMAP.
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/harmony-integration.gif" alt="Exona integration screen: batch correction with Harmony, then the integrated UMAP of both samples" />
+      <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/exona-harmony-integration.gif" alt="Exona integration screen: batch correction with Harmony, then the integrated UMAP of both samples" />
       <br /><b>Batch correction with Harmony</b><br />Both samples on one integrated UMAP, ready to explore.
     </td>
   </tr>
