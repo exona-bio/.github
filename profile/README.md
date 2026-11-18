@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/release-banner.png" alt="Exona — single-cell analysis on your desktop" />
   </a>
 </p>
-<h3 align="center">Computational biology, accessible to every scientist.</h3>
+<h1 align="center">Computational biology, accessible to every scientist.</h1>
  
 <p align="center">
   Exona guides researchers through their own single-cell data, step by step, with no code and no setup.
@@ -15,7 +15,6 @@
   <a href="https://exona.bio/about">About us</a> ·
   <a href="https://exona.bio/contact">Request a demo</a>
 </p>
----
  
 ## Why Exona
  
