@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/exona-mark.svg" alt="Exona" width="96" />
+  <img src="https://raw.githubusercontent.com/exona-bio/.github/main/profile/assets/exona-mark.svg" alt="Exona" width="96" />
 </p>
 
 <h1 align="center">Exona</h1>
